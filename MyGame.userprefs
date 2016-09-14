@@ -1,9 +1,14 @@
-﻿<Properties StartupItem="MyGame.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug-Mac|x86" />
+﻿<Properties StartupConfiguration="{871B5A90-103A-46A5-BBB9-07C02B9851D1}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug-Windows|x86" />
   <MonoDevelop.Ide.ItemProperties.MyGame PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src\GameController.cs">
+    <Files>
+      <File FileName="src\GameLogic.cs" Line="16" Column="19" />
+      <File FileName="src\GameController.cs" Line="287" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
