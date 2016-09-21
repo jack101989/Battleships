@@ -105,6 +105,7 @@ public static class GameController
 		//RemoveHandler _human.PlayerGrid.Changed, AddressOf GridChanged
 		_ai.PlayerGrid.Changed -= GridChanged;
 		_theGame.AttackCompleted -= AttackCompleted;
+		EndingGameController.DrawEndOfGame();
 	}
 
 	/// <summary>
