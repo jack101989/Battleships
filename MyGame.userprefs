@@ -5,10 +5,22 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="src\GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src\DiscoveryController.cs">
     <Files>
       <File FileName="src\GameLogic.cs" Line="16" Column="19" />
-      <File FileName="src\GameController.cs" Line="287" Column="15" />
+      <File FileName="src\GameController.cs" Line="305" Column="10" />
+      <File FileName="src\HighScoreController.cs" Line="128" Column="20" />
+      <File FileName="src\DiscoveryController.cs" Line="79" Column="103" />
+      <File FileName="src\GameResources.cs" Line="1" Column="1" />
+      <File FileName="src\Model\BattleShipsGame.cs" Line="89" Column="88" />
+      <File FileName="src\Model\ISeaGrid.cs" Line="20" Column="14" />
+      <File FileName="src\Model\TileView.cs" Line="22" Column="25" />
+      <File FileName="src\Model\SeaGridAdapter.cs" Line="1" Column="1" />
+      <File FileName="src\Model\Player.cs" Line="1" Column="1" />
+      <File FileName="src\UtilityFunctions.cs" Line="271" Column="7" />
+      <File FileName="src\MenuController.cs" Line="1" Column="1" />
+      <File FileName="src\GameState.cs" Line="1" Column="1" />
+      <File FileName="src\DeploymentController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
 </Properties>
