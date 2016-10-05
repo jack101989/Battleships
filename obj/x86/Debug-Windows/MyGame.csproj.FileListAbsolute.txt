@@ -59,3 +59,4 @@ C:\Users\revam\Desktop\Battleships\bin\Debug\normnfd.nlp
 C:\Users\revam\Desktop\Battleships\bin\Debug\normnfkc.nlp
 C:\Users\revam\Desktop\Battleships\bin\Debug\normnfkd.nlp
 C:\Users\revam\Desktop\Battleships\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\revam\Desktop\Battleships\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
