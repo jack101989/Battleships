@@ -203,7 +203,6 @@
     <None Include="Resources\images\deploy_dir_button_vert.png" />
     <None Include="Resources\images\deploy_play_button.png" />
     <None Include="Resources\images\deploy_randomize_button.png" />
-    <None Include="Resources\images\discover.jpg" />
     <None Include="Resources\images\explosion.png" />
     <None Include="Resources\images\loader_empty.png" />
     <None Include="Resources\images\loader_full.png" />
@@ -229,6 +228,7 @@
     <None Include="Resources\sounds\watershot.wav" />
     <None Include="Resources\sounds\winner.wav" />
     <None Include="packages.config" />
+    <None Include="Resources\images\discover.jpg" />
   </ItemGroup>
   <Target Name="CopyFiles">
     <Copy SourceFiles="@(MacLibraryFiles)" DestinationFolder="$(OutDir)" />
